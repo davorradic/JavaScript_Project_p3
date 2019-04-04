@@ -1,0 +1,15 @@
+{
+  "name": "electron_p3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "admin-lte": "^2.4.10",
+    "electron": "^4.1.3"
+  }
+}
